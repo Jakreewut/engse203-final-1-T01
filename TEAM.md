@@ -12,7 +12,7 @@
 | ชื่อทีม | Bookmeetu-room |
 | Section | 1  |
 | แบบ | คู่  |
-| repo | <https://github.com/owner/engse203-final-1-T04> |
+| repo | https://github.com/Jakreewut/engse203-final-1-T01 |
 | repo take-home | <ใส่หลังสร้าง repo ข้อสอบปลายภาค Part 1 — ดูสัปดาห์ที่ 17> |
 
 ## สมาชิก
